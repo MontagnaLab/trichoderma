@@ -33,7 +33,7 @@ The [code_repo.md](https://github.com/MontagnaLab/trichoderma/blob/main/code_rep
 Each subsection is then subdivided in:
 
 - Section name - SOFTWARE: all relevant software used in the section
-- Section name - INPUTS AND INTERMEDIATE FILES: raw inputs and intermediate files to carry out specific sections of analyses 
+- Section name - INPUTS AND INTERMEDIATE FILES: raw inputs and intermediate files 
 - Section name - OUTPUTS: the final outputs as identified in the manuscript (Figures and Tables)
 - Section name - CODE: multiple code (or commands) blocks
 
