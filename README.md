@@ -5,7 +5,7 @@
 _A soil fungus confers plant resistance against a phytophagous insect by disrupting the symbiotic role of its gut microbiota_
 
 
-![alt text](https://www.koppert.it/content/_processed_/1/7/csm_Trichoderma_2_ff9dab76c1.jpg)
+![alt text](https://static1.squarespace.com/static/5b9033f1f8370a3700df6f4b/5b9fdf254fa51a26033a0bc1/6453d3188240fa44d9418c02/1685336722584/Figure_3_Schematic_representation.jpg?format=1500w)
 
 
 This repository contains the code and intermediate files used to study how a soil fungus can modulate of plant–insect interaction. 
